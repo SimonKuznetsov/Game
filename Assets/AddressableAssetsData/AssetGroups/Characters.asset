@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Characters
+  m_EditorClassIdentifier: 
+  m_GroupName: Characters
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0ee8914add8bf184eb2669a5f9b6f538
+  m_SerializeEntries:
+  - m_GUID: 1c8b4e674120cad47a3fc249308e5af3
+    m_Address: Assets/Prefabs/UI/AddMissionButton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ae64d0eaec8d6f4f9436fce6117048d
+    m_Address: Trash Cat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - characters
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bfa18892388236498842bbfe7a3ff83
+    m_Address: Assets/Prefabs/UI/Header.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 473ffa016efe3724cad08daa78e3d12a
+    m_Address: Rubbish Raccoon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - characters
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71514012df4dcd146957cb145cec8287
+    m_Address: Assets/Prefabs/UI/MissionEntry.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94cb557246c11d14388842cc08be79a8
+    m_Address: Assets/Prefabs/UI/PowerupIcon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a53fe2875371488408daf0df7d69a981
+    m_Address: Assets/Prefabs/UI/MissionPopup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abafe3707f9235b4ab7cdfd1333295c3
+    m_Address: Assets/Prefabs/UI/ItemEntry.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac361d43768a861498da8046b83b94f5
+    m_Address: Assets/Prefabs/UI/Score.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 324267e8a7889ce49add52a793c95257
+    m_Address: Assets/Bundles/Themes/Multiplayer/Industrial/IndustrialWarehouse01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c80f43d3e24f1ee41a360d78faca6e70
+    m_Address: Assets/Bundles/Themes/Multiplayer/Industrial/IndustrialWarehouse02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2a5d1d2309117e4ca851c279e8cc7e1
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanRoadTSection.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67fe4ebb8b5dd7d44b04d13c1863354c
+    m_Address: Assets/Bundles/Themes/Multiplayer/Suburbs/SuburbsHouse01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb81268e92692c84286da27dedc1ed97
+    m_Address: Assets/Bundles/Themes/Multiplayer/Suburbs/SuburbsGarage01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e7a157f790e6b84387989446af55f49
+    m_Address: Assets/Bundles/Themes/Multiplayer/Suburbs/SuburbsHouse02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94a61075bf393fb4aa27d7ec5092b4a1
+    m_Address: Assets/Bundles/Themes/Multiplayer/Suburbs/SuburbsHouse03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23cc1a7da440c9e418c01c036baf6faa
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanBrickWalls01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6334fa7790ee72c49bbdb3838ce3bd44
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanBrickWalls02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c946522fcc565024ca46972e785fb74b
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanBrickWalls03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f194bf8f1b882ee41a28c6c329e1efa1
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanBuilding01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c81f1b3a19615b41bf836842e6f70e6
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanBuilding02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1103f72d2bdd5e49b0f9adfa9fc669c
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanBuilding03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a43307b0a91c8d4687853aad7e68387
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanBuilding04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84bc3f8fdc24669458b1998c61b6e7d5
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanDumpsters01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e03e1ffbd9c5b94795786d9bf19777b
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanDumpsters02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df1e5eb9f0eb00840857a31d727f1bda
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanPlasterWalls01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3b4a449db4ef1e41805362b218c4a8a
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanPlasterWalls02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6cd7d56300a27e43a0175334e154bd6
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanPlasterWalls03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35eda66be04652b4ea1fc0087b0f5e13
+    m_Address: Assets/Bundles/Themes/Multiplayer/Urban/UrbanRoadIntersection.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 735e874f947d0e143a6b4e83f8a7283a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e804a7effdc04f24b992534d7b3594d8, type: 2}
+    - {fileID: 11400000, guid: b2fc035de78f1ea43abe0261a378f9fc, type: 2}
